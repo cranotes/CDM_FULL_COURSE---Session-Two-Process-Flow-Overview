@@ -22,3 +22,5 @@
 [Data Clarification form template.pdf](https://github.com/cranotes/CMD_FULL_COURSE---Session-Two-Process-Flow-Overview/files/8794180/Data.Clarification.form.template.pdf)
 
 ![Screen Shot 2022-05-29 at 2 48 56 PM](https://user-images.githubusercontent.com/99203797/170888985-3cb79988-e2af-4b40-ace9-1a277408bb4a.png)
+
+![Screen Shot 2022-05-29 at 2 55 22 PM](https://user-images.githubusercontent.com/99203797/170889136-2246a226-167a-437b-ba7d-19b8463dc47a.png)
